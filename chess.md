@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chess
+title: "Chess"
 ---
 
 1. d4 d5
